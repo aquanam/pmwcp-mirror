@@ -1,0 +1,8 @@
+// TODO: Overtime, fill this up!
+
+{
+    "mirrors": {
+        // The pmwcp mirror is right here
+        "pmwcp": "."
+    }
+}
